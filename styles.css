@@ -1,0 +1,330 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    font-size: small;
+}
+
+div {
+    display: block;
+}
+
+body {
+    background: #fff;
+    color: #222;
+    font-family: arial, sans-serif;
+}
+
+#hptl {
+    position: absolute;
+    margin: 7px 0 0 10px;
+}
+
+#hptl a {
+    display: inline-block;
+    padding-left: 15px;
+    color: #000;
+    opacity: 0.75;
+}
+
+#hptl a {
+    display: inline-block;
+    padding-left: 15px;
+    color: #000;
+    opacity: 0.75;
+}
+
+#gb {
+    top: 16px;
+    position: relative;
+    font-size: 13px;
+}
+
+
+
+.gb_Ng.gb_Xa {
+    z-index: 987;
+}
+
+
+.gb_Xa.gb_i {
+    flex: 1 1 auto;
+}
+
+.gb_1f .gb_Kg {
+    display: flex;
+}
+
+.gb_i.gb_Jg {
+    float: right;
+    order: 1;
+}
+
+.gb_Xa {
+
+    padding-left: 30px;
+    padding-right: 30px;
+    position: relative;
+    text-align: right;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+
+.gb_Kg, .gb_i {
+    margin-left: 0!important;
+    margin-right: 0!important;
+}
+
+.gb_Kg {
+    white-space: nowrap;
+}
+
+
+.gb_Ng.gb_Xa .gb_ke {
+    padding-right: 15px;
+}
+
+.gb_3c.gb_i, .gb_ke.gb_i, .gb_Pa.gb_i {
+    flex: 0 1 auto;
+}
+
+.gb_h.gb_i {
+    vertical-align: middle;
+    padding-left: 15px;
+}
+
+.gb_h.gb_i:first-child {
+    padding-left: 0;
+}
+
+.gb_Ng.gb_Ng .gb_h {
+    display: inline-block;
+}
+
+.gb_i {
+    flex: 0 0 auto;
+}
+
+.gb_ke {
+    line-height: normal;
+    padding-right: 15px;
+}
+
+.gb_Kg {
+    white-space: nowrap;
+}
+
+.gb_Xa {
+    min-width: 165px;
+    padding-left: 30px;
+    padding-right: 30px;
+    position: relative;
+    text-align: right;
+
+}
+
+#gb a.gb_f, #gb#gb a.gb_g, #gb#gb span.gb_g {
+    color: rgba(0,0,0,0.87);
+    text-decoration: none;
+}
+
+.gb_h .gb_g {
+    display: inline-block;
+    line-height: 24px;
+    outline: none;
+    vertical-align: middle;
+}
+
+
+.gb_3c.gb_i {
+    flex:0 1 auto;
+}
+
+.gb_1f .gb_Kg {
+    display: flex;
+}
+
+.gb_3c {
+    line-height: normal;
+    position: relative;
+    text-align: left;
+}
+
+.gb_i {
+    display: inline-block;
+    flex: 0 0 auto;
+}
+
+.gb_md {
+    padding: 0 0 0 15px;
+    vertical-align: middle;
+}
+
+.gb_3c {
+    line-height: normal;
+    position: relative;
+    text-align: left;
+}
+
+.gb_Sf {
+    position: relative;
+}
+
+
+.gb_3c {
+    line-height: normal;
+    position: relative;
+    text-align: left;
+}
+
+#gb#gb a.gb_D {
+    color: #000;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.gb_C .gb_D {
+    background-position: -132px -38px;
+    opacity: .55;
+}
+
+
+
+.gb_D {
+    display: inline-block;
+    outline: none;
+    vertical-align: middle;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 30px;
+    width: 30px;
+    color: #000;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.gb_xc {
+    background-image: url(//ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+    -webkit-background-size: 528px 68px;
+    background-size: 528px 68px;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.gb_3c {
+    line-height: normal;
+    position: relative;
+    text-align: left;
+}
+
+.gb_Kg {
+    white-space: nowrap;
+}
+
+/* .gb_Kg, .gb_i {
+    margin-left: 0!important;
+    margin-right: 0!important;
+} */
+
+.big .ctr-p {
+    min-width: 1139px;
+}
+
+center {
+    display: block;
+    text-align: -webkit-center;
+}
+
+#lga {
+    height: 233px;
+    margin-top: 89px;
+}
+
+a:visited {
+    color: #609;
+}
+
+img {
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    height: 220px;
+    width: 550px;
+}
+
+.fOwUFe {
+    height: 26px;
+    opacity: 0.8;
+    position: absolute;
+    width: 26px;
+}
+
+div#searchform.jhp {
+    margin-top: 0;
+}
+
+
+.hp #searchform {
+    position: absolute;
+    top: 311px;
+}
+
+div#searchform {
+    min-width: 980px;
+    z-index: 103;
+}
+
+#searchform {
+    width: 100%;
+}
+
+div.sfbg, div.sfbgg {
+    min-width: 980px;
+    height: 64px;
+}
+
+.nojsv {
+    visibility: hidden;
+}
+
+.sfbg {
+    height: 69px;
+    left: 0;
+    position: absolute;
+    width: 100%;
+}
+
+#searchform.big.jhp>#tsf {
+    max-width: none;
+}
+
+.big #tsf, .hp .big #tsf {
+    width: 1139px;
+}
+
+#searchform.big .A8SBwf {
+    width: 584px;
+}
+
+.A8SBwf {
+    position: relative;
+    margin: 0 auto;
+    padding-top: 6px;
+    width: 484px;
+}
+
+.space {
+    top:311px;
+    height: 60px;
+}
